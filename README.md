@@ -45,5 +45,7 @@ $ sudo apt install curl
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
+Source of this idea - https://github.com/Ce-daros/ai-bash-response/blob/main/sample.sh
+
 
  
