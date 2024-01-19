@@ -1,0 +1,3 @@
+//add this to your bash.rc file, edit path to your desired path
+
+source ~/projects/bash-ai-helper/script.sh
